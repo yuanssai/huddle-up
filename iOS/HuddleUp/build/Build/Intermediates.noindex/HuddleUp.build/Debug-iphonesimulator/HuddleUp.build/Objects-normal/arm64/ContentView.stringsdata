@@ -1,0 +1,28 @@
+{
+  "source": "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Error"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      },
+      {
+        "comment": "",
+        "key": "Teams"
+      },
+      {
+        "comment": "",
+        "key": "Channels"
+      },
+      {
+        "comment": "",
+        "key": "Profile"
+      }
+    ]
+  },
+  "version": 1
+}

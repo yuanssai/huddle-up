@@ -1,0 +1,56 @@
+{
+  "source": "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/TeamListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Error"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      },
+      {
+        "comment": "",
+        "key": "Teams"
+      },
+      {
+        "comment": "",
+        "key": "Select or create a team"
+      },
+      {
+        "comment": "",
+        "key": "Loading teams..."
+      },
+      {
+        "comment": "",
+        "key": "No Teams Yet"
+      },
+      {
+        "comment": "",
+        "key": "Create your first team or join an existing one to get started"
+      },
+      {
+        "comment": "",
+        "key": "Create Team"
+      },
+      {
+        "comment": "",
+        "key": "Join Team"
+      },
+      {
+        "comment": "",
+        "key": "Create New Team"
+      },
+      {
+        "comment": "",
+        "key": "%lld"
+      },
+      {
+        "comment": "",
+        "key": "View Channels"
+      }
+    ]
+  },
+  "version": 1
+}

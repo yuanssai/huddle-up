@@ -1,0 +1,36 @@
+{
+  "source": "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/CreateTeamView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Create Team"
+      },
+      {
+        "comment": "",
+        "key": "Start collaborating with your team"
+      },
+      {
+        "comment": "",
+        "key": "Team Name"
+      },
+      {
+        "comment": "",
+        "key": "Enter team name"
+      },
+      {
+        "comment": "",
+        "key": "Description (Optional)"
+      },
+      {
+        "comment": "",
+        "key": "What's this team about?"
+      },
+      {
+        "comment": "",
+        "key": "Cancel"
+      }
+    ]
+  },
+  "version": 1
+}

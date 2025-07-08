@@ -1,0 +1,52 @@
+{
+  "source": "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/ChannelListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Error"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      },
+      {
+        "comment": "",
+        "key": "%lld members • %lld channels"
+      },
+      {
+        "comment": "",
+        "key": "No Team Selected"
+      },
+      {
+        "comment": "",
+        "key": "Go to Teams tab to select or join a team"
+      },
+      {
+        "comment": "",
+        "key": "Search channels"
+      },
+      {
+        "comment": "",
+        "key": "Loading channels..."
+      },
+      {
+        "comment": "",
+        "key": "No Channels Yet"
+      },
+      {
+        "comment": "",
+        "key": "Create your first channel to start communicating"
+      },
+      {
+        "comment": "",
+        "key": "Create Channel"
+      },
+      {
+        "comment": "",
+        "key": "%lld"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,72 @@
+{
+  "source": "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/CreateChannelView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Create Channel"
+      },
+      {
+        "comment": "",
+        "key": "Channels are where your team communicates"
+      },
+      {
+        "comment": "",
+        "key": "Select Team"
+      },
+      {
+        "comment": "",
+        "key": "Choose a team..."
+      },
+      {
+        "comment": "",
+        "key": "Creating channel for"
+      },
+      {
+        "comment": "",
+        "key": "%lld members"
+      },
+      {
+        "comment": "",
+        "key": "Channel Name"
+      },
+      {
+        "comment": "",
+        "key": "Channel names must be lowercase, without spaces or periods, and can't be longer than 21 characters"
+      },
+      {
+        "comment": "",
+        "key": "#"
+      },
+      {
+        "comment": "",
+        "key": "e.g. marketing"
+      },
+      {
+        "comment": "",
+        "key": "Description (Optional)"
+      },
+      {
+        "comment": "",
+        "key": "What's this channel about?"
+      },
+      {
+        "comment": "",
+        "key": "Only specific people can access this channel"
+      },
+      {
+        "comment": "",
+        "key": "Anyone in the team can join this channel"
+      },
+      {
+        "comment": "",
+        "key": "Make private"
+      },
+      {
+        "comment": "",
+        "key": "Cancel"
+      }
+    ]
+  },
+  "version": 1
+}

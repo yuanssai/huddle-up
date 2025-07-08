@@ -1,0 +1,208 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/HuddleUp-master.dia",
+    "emit-module-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/HuddleUp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/HuddleUp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/HuddleUp-master.swiftdeps"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/HuddleUpApp.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/HuddleUpApp.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/HuddleUpApp.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/HuddleUpApp.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/HuddleUpApp.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/HuddleUpApp.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/HuddleUpApp.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/HuddleUpApp.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/HuddleUpApp~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Models/Models.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Services/NetworkManager.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/NetworkManager.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/NetworkManager.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/NetworkManager.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/NetworkManager.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/NetworkManager.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/NetworkManager.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/NetworkManager.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/NetworkManager~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Services/SocketManager.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/SocketManager.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/SocketManager.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/SocketManager.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/SocketManager.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/SocketManager.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/SocketManager.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/SocketManager.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/SocketManager~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/ViewModels/AuthViewModel.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/AuthViewModel.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/AuthViewModel.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/AuthViewModel.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/AuthViewModel.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/AuthViewModel.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/AuthViewModel.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/AuthViewModel.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/AuthViewModel~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/ViewModels/ChannelViewModel.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelViewModel.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelViewModel.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelViewModel.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelViewModel.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelViewModel.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelViewModel.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelViewModel.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelViewModel~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/ViewModels/MessageViewModel.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/MessageViewModel.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/MessageViewModel.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/MessageViewModel.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/MessageViewModel.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/MessageViewModel.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/MessageViewModel.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/MessageViewModel.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/MessageViewModel~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/ViewModels/TeamViewModel.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamViewModel.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamViewModel.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamViewModel.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamViewModel.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamViewModel.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamViewModel.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamViewModel.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamViewModel~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/ChannelListView.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelListView.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelListView.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelListView.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelListView.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelListView.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelListView.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelListView.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChannelListView~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/ChatView.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChatView.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChatView.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChatView.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChatView.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChatView.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChatView.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChatView.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ChatView~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/ContentView.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/CreateChannelView.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateChannelView.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateChannelView.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateChannelView.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateChannelView.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateChannelView.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateChannelView.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateChannelView.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateChannelView~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/CreateTeamView.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateTeamView.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateTeamView.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateTeamView.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateTeamView.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateTeamView.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateTeamView.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateTeamView.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/CreateTeamView~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/JoinTeamView.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/JoinTeamView.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/JoinTeamView.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/JoinTeamView.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/JoinTeamView.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/JoinTeamView.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/JoinTeamView.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/JoinTeamView.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/JoinTeamView~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/LoginView.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/LoginView.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/LoginView.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/LoginView.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/LoginView.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/LoginView.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/LoginView.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/LoginView.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/LoginView~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/ProfileView.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/RegisterView.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/RegisterView.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/RegisterView.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/RegisterView.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/RegisterView.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/RegisterView.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/RegisterView.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/RegisterView.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/RegisterView~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/TeamDetailView.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamDetailView.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamDetailView.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamDetailView.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamDetailView.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamDetailView.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamDetailView.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamDetailView.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamDetailView~partial.swiftmodule"
+  },
+  "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/TeamListView.swift" : {
+    "const-values" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamListView.swiftconstvalues",
+    "dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamListView.d",
+    "diagnostics" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamListView.dia",
+    "index-unit-output-path" : "/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamListView.o",
+    "llvm-bc" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamListView.bc",
+    "object" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamListView.o",
+    "swift-dependencies" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamListView.swiftdeps",
+    "swiftmodule" : "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/build/Build/Intermediates.noindex/HuddleUp.build/Debug-iphonesimulator/HuddleUp.build/Objects-normal/arm64/TeamListView~partial.swiftmodule"
+  }
+}

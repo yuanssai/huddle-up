@@ -1,0 +1,40 @@
+{
+  "source": "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/JoinTeamView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Join Team"
+      },
+      {
+        "comment": "",
+        "key": "Enter an invite code to join a team"
+      },
+      {
+        "comment": "",
+        "key": "Invite Code"
+      },
+      {
+        "comment": "",
+        "key": "Enter invite code"
+      },
+      {
+        "comment": "",
+        "key": "Ask your team admin for an invite code"
+      },
+      {
+        "comment": "",
+        "key": "Invite codes are UUID format"
+      },
+      {
+        "comment": "",
+        "key": "Cancel"
+      },
+      {
+        "comment": "",
+        "key": "Paste"
+      }
+    ]
+  },
+  "version": 1
+}

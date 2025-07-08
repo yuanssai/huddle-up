@@ -1,0 +1,52 @@
+{
+  "source": "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/LoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Welcome to Huddle Up"
+      },
+      {
+        "comment": "",
+        "key": "Sign in to your workspace"
+      },
+      {
+        "comment": "",
+        "key": "Email"
+      },
+      {
+        "comment": "",
+        "key": "your@email.com"
+      },
+      {
+        "comment": "",
+        "key": "Password"
+      },
+      {
+        "comment": "",
+        "key": "Enter your password"
+      },
+      {
+        "comment": "",
+        "key": "Sign In"
+      },
+      {
+        "comment": "",
+        "key": "or"
+      },
+      {
+        "comment": "",
+        "key": "Create a new account"
+      },
+      {
+        "comment": "",
+        "key": "Demo Account"
+      },
+      {
+        "comment": "",
+        "key": "Use Demo Credentials"
+      }
+    ]
+  },
+  "version": 1
+}

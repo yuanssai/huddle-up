@@ -1,0 +1,76 @@
+{
+  "source": "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/TeamDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Leave Team"
+      },
+      {
+        "comment": "",
+        "key": "%lld"
+      },
+      {
+        "comment": "",
+        "key": "Members"
+      },
+      {
+        "comment": "",
+        "key": "Channels"
+      },
+      {
+        "comment": "",
+        "key": "Created"
+      },
+      {
+        "comment": "",
+        "key": "and %lld more..."
+      },
+      {
+        "comment": "",
+        "key": "@%@"
+      },
+      {
+        "comment": "",
+        "key": "• Admin"
+      },
+      {
+        "comment": "",
+        "key": "Show Invite Code"
+      },
+      {
+        "comment": "",
+        "key": "Done"
+      },
+      {
+        "comment": "",
+        "key": "Cancel"
+      },
+      {
+        "comment": "",
+        "key": "Leave"
+      },
+      {
+        "comment": "",
+        "key": "Are you sure you want to leave %@? You'll need a new invite to rejoin."
+      },
+      {
+        "comment": "",
+        "key": "Invite Code"
+      },
+      {
+        "comment": "",
+        "key": "Share this code with team members"
+      },
+      {
+        "comment": "",
+        "key": "Copy"
+      },
+      {
+        "comment": "",
+        "key": "Share"
+      }
+    ]
+  },
+  "version": 1
+}

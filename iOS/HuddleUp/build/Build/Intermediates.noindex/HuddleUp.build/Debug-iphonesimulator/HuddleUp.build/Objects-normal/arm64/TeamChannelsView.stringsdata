@@ -1,0 +1,48 @@
+{
+  "source": "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/TeamChannelsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Error"
+      },
+      {
+        "comment": "",
+        "key": "%@ Channels"
+      },
+      {
+        "comment": "",
+        "key": "Done"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      },
+      {
+        "comment": "",
+        "key": "%lld members • %lld channels"
+      },
+      {
+        "comment": "",
+        "key": "Search channels"
+      },
+      {
+        "comment": "",
+        "key": "Loading channels..."
+      },
+      {
+        "comment": "",
+        "key": "No Channels Yet"
+      },
+      {
+        "comment": "",
+        "key": "Create your first channel to start communicating with %@"
+      },
+      {
+        "comment": "",
+        "key": "Create Channel"
+      }
+    ]
+  },
+  "version": 1
+}

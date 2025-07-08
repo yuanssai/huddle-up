@@ -1,0 +1,64 @@
+{
+  "source": "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/ProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Profile"
+      },
+      {
+        "comment": "",
+        "key": "Sign Out"
+      },
+      {
+        "comment": "",
+        "key": "Unknown User"
+      },
+      {
+        "comment": "",
+        "key": "@%@"
+      },
+      {
+        "comment": "",
+        "key": "Online"
+      },
+      {
+        "comment": "",
+        "key": "Offline"
+      },
+      {
+        "comment": "",
+        "key": "Edit Profile"
+      },
+      {
+        "comment": "",
+        "key": "Huddle Up"
+      },
+      {
+        "comment": "",
+        "key": "Version 1.0.0"
+      },
+      {
+        "comment": "",
+        "key": "Scroll Test"
+      },
+      {
+        "comment": "",
+        "key": "If you can see this section, scrolling is working correctly."
+      },
+      {
+        "comment": "",
+        "key": "Scroll test item %lld"
+      },
+      {
+        "comment": "",
+        "key": "Cancel"
+      },
+      {
+        "comment": "",
+        "key": "Are you sure you want to sign out?"
+      }
+    ]
+  },
+  "version": 1
+}

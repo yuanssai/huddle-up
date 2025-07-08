@@ -1,0 +1,84 @@
+{
+  "source": "/Users/vincent/Documents/motiong-io/huddle-up/iOS/HuddleUp/HuddleUp/Views/RegisterView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Join Huddle Up"
+      },
+      {
+        "comment": "",
+        "key": "Create your account"
+      },
+      {
+        "comment": "",
+        "key": "By creating an account, you agree to our Terms of Service and Privacy Policy"
+      },
+      {
+        "comment": "",
+        "key": "First Name"
+      },
+      {
+        "comment": "",
+        "key": "John"
+      },
+      {
+        "comment": "",
+        "key": "Last Name"
+      },
+      {
+        "comment": "",
+        "key": "Doe"
+      },
+      {
+        "comment": "",
+        "key": "Email"
+      },
+      {
+        "comment": "",
+        "key": "your@email.com"
+      },
+      {
+        "comment": "",
+        "key": "Username"
+      },
+      {
+        "comment": "",
+        "key": "Username must be 3-30 characters, letters, numbers, and underscore only"
+      },
+      {
+        "comment": "",
+        "key": "username"
+      },
+      {
+        "comment": "",
+        "key": "Password"
+      },
+      {
+        "comment": "",
+        "key": "Password must be at least 6 characters"
+      },
+      {
+        "comment": "",
+        "key": "Enter your password"
+      },
+      {
+        "comment": "",
+        "key": "Confirm Password"
+      },
+      {
+        "comment": "",
+        "key": "Passwords do not match"
+      },
+      {
+        "comment": "",
+        "key": "Confirm your password"
+      },
+      {
+        "comment": "",
+        "key": "Create Account"
+      }
+    ]
+  },
+  "version": 1
+}
